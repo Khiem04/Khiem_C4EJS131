@@ -1,0 +1,56 @@
+header {
+    background-color: red;
+    display: block;
+}
+
+.card {
+    padding: 20px;
+    border: 1px solid #c9c9c9;
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(148, 39, 39);
+}
+
+article {
+    display: block;
+}
+
+.card-row {
+    display: grid;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0 0 0.35em;
+}
+
+.container {
+    max-width: 500px;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 24px
+}
+
+.button {
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 40px;
+}
